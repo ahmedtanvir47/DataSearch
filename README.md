@@ -38,3 +38,11 @@ This part examines the top industries and companies actively hiring for data sci
 This analysis, conducted in Power BI, has provided valuable insights for DataSearch and the broader data science community. Understanding job trends and skill requirements allows individuals and organizations to make informed decisions to succeed in the dynamic field of data science.
 
 For a more detailed analysis and interactive visualizations, please refer to the Power BI report associated with this case study.
+
+![job market dashboard-1](BI_Page1.jpg)
+
+![job market dashboard-2](BI_Page2.jpg)
+
+![job market dashboard-3](BI_Page3.jpg)
+
+![job market dashboard-4](BI_Page4.jpg)
